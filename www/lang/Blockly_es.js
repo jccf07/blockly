@@ -2,14 +2,14 @@
 goog.provide ( 'Blockly.Msg.fr');
 goog.require ( 'Blockly.Msg');
 
-Blockly.Msg.INOUT_HIGH_LEVEL = "1(high state)";
-Blockly.Msg.INOUT_LOW_LEVEL = "0(low state)";
-Blockly.Msg.ARD_TYPE_CHAR = "character";
-Blockly.Msg.ARD_TYPE_TEXT = "text";
-Blockly.Msg.ARD_TYPE_BOOL = "binary";
+Blockly.Msg.INOUT_HIGH_LEVEL = "1(estado alto)";
+Blockly.Msg.INOUT_LOW_LEVEL = "0(estado bajo)";
+Blockly.Msg.ARD_TYPE_CHAR = "carácter";
+Blockly.Msg.ARD_TYPE_TEXT = "texto";
+Blockly.Msg.ARD_TYPE_BOOL = "binario";
 Blockly.Msg.ARD_TYPE_SHORT = "byte";
-Blockly.Msg.ARD_TYPE_NUMBER = "integer";
-Blockly.Msg.ARD_TYPE_LONG = "long integer";
+Blockly.Msg.ARD_TYPE_NUMBER = "entero";
+Blockly.Msg.ARD_TYPE_LONG = "entero largo";
 Blockly.Msg.ARD_TYPE_DECIMAL = "floating point number";
 Blockly.Msg.ARD_TYPE_ARRAY = "array";
 Blockly.Msg.ARD_TYPE_NULL = "empty";
